@@ -14,7 +14,7 @@ Turning complex requirements into practical tools.
 
 ## About me
 
-I'm a project manager who enjoys connecting business needs with hands-on technical work. My focus is on AI integrations, useful automation, and making complex systems easier for people to adopt.
+I enjoy connecting business needs with hands-on technical work. My focus is on AI integrations, useful automation, and making complex systems easier for people to adopt.
 
 I bring a practical perspective to projects: define the problem, build a clear workflow, test it, and document what matters.
 
