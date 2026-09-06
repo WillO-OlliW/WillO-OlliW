@@ -2,7 +2,7 @@
 
 # William O'Hara
 
-**Project Management · AI Integrations · Workflow Automation**
+**AI Integrations · Workflow Automation**
 
 Turning complex requirements into practical tools.
 
